@@ -2,7 +2,7 @@
 #include <KiwisIoT.h>
 
 // WiFi credentials
-const char* ssid = "gopika";
+const char* ssid = "abcd";
 const char* pass = "12345678";
 
 // KiwisIoT Topic
